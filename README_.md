@@ -41,7 +41,7 @@ Built by a gold trader managing daily XAU/USD hedging exposure as a systematic q
 
 ## Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/supanutdear/Gold-Volatility-GARCH-VaR/blob/main/Gold_Volatility_Regime_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/supanutdear/Gold-Volatility-GARCH-VaR/blob/main/Gold_Volatility_Regime_Analysis_.ipynb)
 
 ## Reproducibility
 
